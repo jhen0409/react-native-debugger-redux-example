@@ -1,6 +1,6 @@
 # RNDReduxExample
 
-> Simple example for [React Native](https://github.com/facebook/react-native) / [Redux](https://github.com/reactjs/redux) app debug with [react-native-debugger](https://github.com/jhen0409/react-native-debugger) and [mobx-remotedev](https://github.com/zalmoxisus/mobx-remotedev)
+> Simple example for [React Native](https://github.com/facebook/react-native) / [Redux](https://github.com/reactjs/redux) app debug with [react-native-debugger](https://github.com/jhen0409/react-native-debugger) and [redux-devtools-extension](https://www.npmjs.com/package/redux-devtools-extension)
 
 [For MobX](https://github.com/jhen0409/react-native-debugger-mobx-example)
 
